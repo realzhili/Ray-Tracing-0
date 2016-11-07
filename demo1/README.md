@@ -1,5 +1,5 @@
-# Ray-Tracing-0                                       
-This is  a minimal implementation of ray tracing.                      
+# DEMO 1                                      
+This is  a minimal implementation of ray tracing with one sphere.                      
 
 The output is like this:                                         
 ![output](test.png)

@@ -1,8 +1,9 @@
 # DEMO 2                                      
-This is  another implementation of ray tracing with multiple spheres.                      
+This is another implementation of ray tracing, but with multiple spheres that have different depths of field.               
 
 The output is like this:                                         
-![output](test.png)                                              
+![output](test.png)         
+Comparing to demo1, the spheres on the two sides look ugly.... I know it's a rough implementation but I think it's correct.
 
 
 

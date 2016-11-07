@@ -5,7 +5,7 @@ It's my first time to learn ray tracing from scratch, so I'm going to use this r
                                                     
 * General:                               
 To save the RGBA values into an image file, I used the [lodePNG](http://lodev.org/lodepng) library.                     
-To calculate the intersection between rays and sphere, I referred [this](https://www.siggraph.org/education/materials/HyperGraph/raytrace/rtinter1.htm).
+To calculate the intersection between rays and spheres, I referred [this](https://www.siggraph.org/education/materials/HyperGraph/raytrace/rtinter1.htm).
                                  
                                                  
                                                  

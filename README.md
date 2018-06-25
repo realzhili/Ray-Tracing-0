@@ -8,7 +8,6 @@ To save the RGBA values into an image file, I used the [lodePNG](http://lodev.or
 To calculate the intersection between rays and spheres, I referred [this](https://www.siggraph.org/education/materials/HyperGraph/raytrace/rtinter1.htm).
                                  
                                                  
-                                                 
 * Demo 1:                      
 This is a minimal implementation of ray tracing with only one sphere. No relection and refraction is used.                               
 The output is like this:                                         
